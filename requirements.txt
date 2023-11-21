@@ -1,0 +1,4 @@
+pandas
+sqllite3
+json
+flask
