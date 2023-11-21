@@ -1,2 +1,2 @@
-# Inerg
+# Python Flask API
 Task 
